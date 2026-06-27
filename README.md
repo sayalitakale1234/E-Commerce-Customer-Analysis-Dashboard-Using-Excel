@@ -104,9 +104,6 @@ The dataset contains:
 ### dataset
 ![Dashboard](./dataset.png)
 
-###  Key and recommandation
-![Dashboard](./Key%20and%20recommandation.png)
-
 ---
 
 ## 📁 Files Included
@@ -115,7 +112,6 @@ The dataset contains:
 - Orders_Data.xlsx
 - E-commerce Dashboard.png
 - pivot tables.png
-- key and recommandation.png
 - dataset.png
 
 ---
